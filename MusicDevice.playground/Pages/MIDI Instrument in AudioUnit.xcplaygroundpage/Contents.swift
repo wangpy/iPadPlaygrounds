@@ -1,5 +1,10 @@
 /*: 
  Code referenced from https://github.com/genedelisa/MIDISynth/blob/master/MIDISynth/AVAudioUnitDistortionEffect.swift
+ 
+ SoundFont from: http://sourceforge.net/p/mscore/code/HEAD/tree/trunk/mscore/share/sound/TimGM6mb.sf2?format=raw
+ MuseScore 1 came with TimGM6mb (5.7 MB uncompressed)
+ License: GNU GPL, version 2
+ Courtesy of Tim Brechbill (http://ocmnet.com/saxguru/Timidity.htm#sf2)
  */
 import PlaygroundSupport
 import AVFoundation

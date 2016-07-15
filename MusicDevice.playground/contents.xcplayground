@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
-        <page name='Get Sources and Destinations'/>
-        <page name='Send MIDI Messages'/>
-        <page name='Send MIDI in Background'/>
-        <page name='Touch Send MIDI'/>
-        <page name='Receive MIDI Messages'/>
         <page name='MIDI Instrument in AudioUnit'/>
         <page name='API Test'/>
     </pages>
